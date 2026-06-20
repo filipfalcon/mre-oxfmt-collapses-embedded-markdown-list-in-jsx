@@ -1,0 +1,10 @@
+{
+  "name": "mre-oxfmt-collapses-embedded-markdown-list-in-jsx",
+  "private": true,
+  "scripts": {
+    "repro": "oxfmt --write repro.mdx"
+  },
+  "devDependencies": {
+    "oxfmt": "0.55.0"
+  }
+}
